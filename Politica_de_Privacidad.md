@@ -6,7 +6,7 @@
 
 > Esta es una traducción de la versión original en portugués. Si las dos difieren, prevalece la versión en portugués.
 
-Esta Política explica qué datos personales trata Cursus, para qué, con quién los comparte, por cuánto tiempo los guarda y cómo ejerces tus derechos. Sigue la Ley General de Protección de Datos Personales de Brasil (LGPD, Ley 13.709/2018), el Marco Civil de Internet (Ley 12.965/2014) y el Código de Defensa del Consumidor (Ley 8.078/1990), y forma parte de los [Términos de Uso](TERMINOS_DE_USO.md).
+Esta Política explica qué datos personales trata Cursus, para qué, con quién los comparte, por cuánto tiempo los guarda y cómo ejerces tus derechos. Sigue la Ley General de Protección de Datos Personales de Brasil (LGPD, Ley 13.709/2018), el Marco Civil de Internet (Ley 12.965/2014) y el Código de Defensa del Consumidor (Ley 8.078/1990), y forma parte de los [Términos de Uso](Terminos_de_uso.md).
 
 Vale para la app Cursus para iOS y, cuando esté disponible, para el sitio web de Cursus (juntos, la "**Plataforma**").
 
