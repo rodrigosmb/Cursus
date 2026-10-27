@@ -4,7 +4,7 @@
 **Última atualização:** 20 de outubro de 2026
 **Vigência:** a partir de 20 de outubro de 2026
 
-Esta Política explica quais dados pessoais o Cursus trata, para quê, com quem compartilha, por quanto tempo guarda e como você exerce os seus direitos. Ela segue a Lei Geral de Proteção de Dados Pessoais (LGPD, Lei 13.709/2018), o Marco Civil da Internet (Lei 12.965/2014) e o Código de Defesa do Consumidor (Lei 8.078/1990), e faz parte dos [Termos de Uso](TERMOS_DE_USO.md).
+Esta Política explica quais dados pessoais o Cursus trata, para quê, com quem compartilha, por quanto tempo guarda e como você exerce os seus direitos. Ela segue a Lei Geral de Proteção de Dados Pessoais (LGPD, Lei 13.709/2018), o Marco Civil da Internet (Lei 12.965/2014) e o Código de Defesa do Consumidor (Lei 8.078/1990), e faz parte dos [Termos de Uso](Termos_de_uso.md).
 
 Ela vale para o aplicativo Cursus para iOS e, quando estiver disponível, para o site do Cursus (juntos, a "**Plataforma**").
 
