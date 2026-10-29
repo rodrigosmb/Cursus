@@ -16,7 +16,8 @@ It applies to the Cursus app for iOS and, when available, to the Cursus website 
 
 - You sign in with your **Apple or Google** account. We do not ask for or store a password.
 - We keep what you enter to organize your academic life: courses, grades, absences, classes, notebook, photos, PDFs and schedule. **This data stays in Brazil**, on Google Cloud servers in São Paulo.
-- **We do not sell your data, show ads or track you** across other companies' apps and websites.
+- **We do not sell your data or track you** across other companies' apps and websites.
+- The app shows **native ads from Google AdMob**, always labeled as ads and **not personalized**: they do not use your content, your Account or data from other apps.
 - **Google Analytics** collects usage data that does not identify you, to improve the app, and you can turn it off at any time in your Profile.
 - The **Auto Readers** send the photo, PDF or text you choose to Google's artificial intelligence, in the United States, only when you use a Reader. Cursus does not keep this content.
 - **Automatic Attendance** uses your location **only on the device**. Your position is not sent to us.
@@ -53,6 +54,7 @@ The LGPD requires every processing of data to have a purpose and a legal basis (
 | **App usage data:** events such as screens opened and reading results, app installation identifier, device model, iOS and app version, language, approximate country or region | Google Analytics, unless you turn it off | Understand how the app is used and improve it ([item 4](#4-google-analytics)) | Legitimate interest (IX) |
 | **Technical and security data:** IP address, date and time of access, Firebase technical identifiers, server error logs | Generated automatically when the app connects to the servers | Keep the Platform secure and running, investigate failures and abuse | Legitimate interest (IX) and compliance with a legal obligation (II) |
 | **Support contact:** email, name and message content | You, when you write to us | Answer your requests, including privacy requests | Performance of a contract (V), legal obligation (II) and regular exercise of rights (VI) |
+| **Ad data:** IP address and the approximate location derived from it, device model, iOS and app version, language, technical app and device identifiers (without the advertising identifier, IDFA) and interactions with ads, such as impressions and taps | Collected by the Google AdMob SDK when an ad is shown | Show non-personalized ads, limit how often the same ad appears, measure results in aggregate and prevent fraud ([ads](#ads-google-admob)) | Legitimate interest (IX), to keep the app free |
 | **Account deletion record:** internal identifier, request status and dates, without name or email | Generated when you delete the Account | Make sure deletion was completed and prevent old sessions from recreating data | Legitimate interest (IX) and regular exercise of rights (VI) |
 
 **What we do not collect:** CPF (Brazilian tax ID), phone number, date of birth, profile photo, contacts, audio, payment data or the advertising identifier (IDFA). The app does not ask to track you. Calendar events, if you connect them, are read on the device only and never reach our servers.
@@ -80,12 +82,22 @@ This data stays only on the device and is erased when you delete the app. When y
 
 We use **Google Analytics for Firebase** to learn how the app is used, for example which screens are opened most and whether the Auto Readers work well, and so improve Cursus.
 
-- **Based on legitimate interest, and you can turn it off.** Collection is on by default, because it serves only to improve the app itself, with data that does not identify you and without advertising (LGPD, art. 7, IX, and art. 10). If you do not want it, turn off *Profile → Privacy → Help improve Cursus*, with or without an account. Collection stops immediately, applies to the device and does not limit any feature.
+- **Based on legitimate interest, and you can turn it off.** Collection is on by default, because it serves only to improve the app itself, with data that does not identify you and is not used for ads (LGPD, art. 7, IX, and art. 10). If you do not want it, turn off *Profile → Privacy → Help improve Cursus*, with or without an account. Collection stops immediately, applies to the device and does not limit any feature.
 - **What is sent:** usage events (such as "courses screen opened", "Apple sign-in chosen", "reading completed" or "reading failed") and technical data collected by the SDK itself: app installation identifier, device model, iOS and app version, language, approximate country or region, date of first launch, and session length and count.
 - **What is not sent:** name, email, course names, grades, notes, photos, precise location or the content of readings. We also do not link Analytics data to your Account.
-- **No advertising:** Google's advertising features are turned off and the app does not use the advertising identifier (IDFA).
+- **Kept apart from ads:** Google Analytics' advertising features are turned off, Analytics data is not used to choose ads and the app does not use the advertising identifier (IDFA).
 - **Where and for how long:** the data is processed by Google, including in the United States ([item 7](#7-who-we-share-data-with)). Event data is kept for **2 months** and then deleted automatically. When you turn off collection or delete the Account, the installation identifier is reset.
 - To learn how Google handles this data: [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites?hl=en).
+
+### Ads (Google AdMob)
+
+Cursus is free and is supported by **native ads**, provided by **Google AdMob**. They appear within the app's content, in the same style as the app, and are always labeled as ads.
+
+- **Not personalized.** Ads are chosen based on context, such as the app itself, the language and the approximate region, and not on your profile. They do not use the advertising identifier (IDFA), the app does not ask to track you, and we do not send AdMob your name, your email, your Account, Analytics data or anything you enter in Cursus.
+- **What the AdMob SDK collects:** IP address and the approximate location derived from it, device model, iOS and app version, language, technical app and device identifiers, and your interactions with ads, such as impressions and taps. Google uses this data to show the ad, limit how often the same ad appears, measure results in aggregate and prevent fraud.
+- **Legal basis:** legitimate interest (LGPD, art. 7, IX), because ads keep Cursus free and do not use your data to build a profile. You can object to this processing through the channel in [item 11](#11-contact-and-data-protection-officer).
+- **Where and for how long:** the data is processed by Google, including in the United States ([item 7](#7-who-we-share-data-with)), for the period set in Google's policy.
+- To learn how Google handles advertising data: [How Google uses cookies in advertising](https://policies.google.com/technologies/ads?hl=en).
 
 ## 5. Device permissions
 
@@ -127,6 +139,7 @@ The Auto Readers turn a photo of the class schedule, the syllabus (PDF or photos
 |---|---|---|---|
 | **Google** (Firebase and Google Cloud) | Sign-in, database (Cloud Firestore), storage of photos, PDFs and drawings (Cloud Storage), remote configuration (Remote Config), servers for the Auto Readers and the account deletion process | Account, academic data, notebook, photos, PDFs, drawings, technical data | Database, files and account deletion: **Brazil** (São Paulo). Authentication and Auto Readers: **United States**. Remote configuration: Google's global infrastructure |
 | **Google** (Google Analytics for Firebase) | Usage statistics, unless you turn it off | Usage data in [item 4](#4-google-analytics) | United States and other countries |
+| **Google** (Google AdMob) | Non-personalized native ads | Ad data in [item 4](#ads-google-admob) | United States and other countries |
 | **Google** (Gemini, through Vertex AI) | Artificial intelligence for the Auto Readers, only when you use a Reader | File or text sent | United States |
 | **Apple** | Sign in with Apple and distribution through the App Store | Sign-in data. Apple handles App Store data as an independent controller, under its own policy | Under Apple's policy |
 
@@ -146,6 +159,7 @@ Part of the processing takes place outside Brazil, mainly in the United States, 
 | Account, academic data, notebook, photos, PDFs, drawings, planner and acceptance of the Terms | While the Account exists. You can delete items at any time. |
 | Files sent to the Auto Readers | Not stored by Cursus. They are discarded right after processing. |
 | Google Analytics data | 2 months, then deleted automatically by Google |
+| Ad data (Google AdMob) | For the period set in Google's advertising policy |
 | Server technical logs | Up to 30 days, except for security incident investigations or orders from an authority. Google's sign-in service keeps IP addresses for a few weeks. |
 | Firebase installation identifier (used by remote configuration) | Until the Account or the app is deleted. After that, it leaves Google's backups within 180 days. |
 | Support messages and privacy requests | Up to 5 years after the request is handled, to prove that we answered (period in art. 27 of the Consumer Protection Code) |

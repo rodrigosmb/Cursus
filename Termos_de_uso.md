@@ -48,7 +48,7 @@ O Cursus é desenvolvido e mantido por uma equipe independente, chamada aqui de 
 - organizar provas, trabalhos, sessões de estudo e compromissos pessoais num planejador, que pode considerar os horários ocupados do Calendário do iPhone, se você conectar;
 - usar os Leitores Automáticos para preencher dados a partir de fotos, PDFs ou textos.
 
-5.2. **Gratuidade.** Hoje o Cursus é gratuito e não exibe publicidade. Alguns recursos, como os Leitores Automáticos, têm limite de uso por semestre, informado no próprio app. Se um dia criarmos recursos pagos, as condições comerciais serão apresentadas antes de qualquer cobrança, com o direito de arrependimento e as demais regras do Código de Defesa do Consumidor.
+5.2. **Gratuidade e anúncios.** Hoje o Cursus é gratuito e se mantém com **anúncios nativos**, que aparecem no meio do conteúdo do app no mesmo estilo dele e são sempre identificados como anúncio. Os anúncios são fornecidos pelo Google AdMob e **não são personalizados** com os seus dados, como explica a [Política de Privacidade](Politica_de_privacidade.md#anúncios-google-admob). Não respondemos pelo conteúdo dos anúncios nem pelos produtos e serviços anunciados, que são de responsabilidade de quem anuncia. Alguns recursos, como os Leitores Automáticos, têm limite de uso por semestre, informado no próprio app. Se um dia criarmos recursos pagos, as condições comerciais serão apresentadas antes de qualquer cobrança, com o direito de arrependimento e as demais regras do Código de Defesa do Consumidor.
 
 5.3. **O Cursus não é um sistema oficial da sua instituição de ensino.** Notas, médias, faltas, prazos e previsões que aparecem no app servem para a sua organização pessoal. Os registros oficiais são os da sua instituição. Confira sempre as informações oficiais antes de tomar decisões acadêmicas.
 
@@ -198,4 +198,3 @@ Dúvidas, reclamações ou pedidos sobre estes Termos: **cursusapp06@gmail.com**
 
 **Denúncias:** use o mesmo canal para denunciar qualquer uso da Plataforma que viole direitos de crianças e adolescentes. A denúncia precisa identificar quem denuncia e o conteúdo ou a conta denunciada. Vamos analisá-la, tomar as medidas cabíveis e, quando for o caso, comunicar as autoridades competentes (Lei 15.211/2025, arts. 28 e 29).
 Pedidos sobre dados pessoais seguem o canal descrito na [Política de Privacidade](Politica_de_privacidade.md#11-contato-e-encarregado).
-

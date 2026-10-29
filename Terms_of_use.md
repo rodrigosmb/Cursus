@@ -50,7 +50,7 @@ Cursus is developed and maintained by an independent team, referred to here as "
 - organize exams, assignments, study sessions and personal appointments in a planner, which can take into account busy times from the iPhone Calendar if you connect it;
 - use the Auto Readers to fill in data from photos, PDFs or text.
 
-5.2. **Free of charge.** Cursus is currently free and shows no ads. Some features, such as the Auto Readers, have a per-semester usage limit, shown in the app. If we ever create paid features, the commercial terms will be presented before any charge, with the right of withdrawal and the other rules of the Brazilian Consumer Protection Code.
+5.2. **Free of charge and ads.** Cursus is currently free and is supported by **native ads**, which appear within the app's content in the same style as the app and are always labeled as ads. The ads are provided by Google AdMob and are **not personalized** with your data, as explained in the [Privacy Policy](Privacy_Policy.md#ads-google-admob). We are not responsible for the content of the ads or for the products and services advertised, which are the advertisers' responsibility. Some features, such as the Auto Readers, have a per-semester usage limit, shown in the app. If we ever create paid features, the commercial terms will be presented before any charge, with the right of withdrawal and the other rules of the Brazilian Consumer Protection Code.
 
 5.3. **Cursus is not an official system of your educational institution.** Grades, averages, absences, deadlines and forecasts shown in the app are for your personal organization. The official records are those of your institution. Always check the official information before making academic decisions.
 
@@ -200,4 +200,3 @@ Questions, complaints or requests about these Terms: **cursusapp06@gmail.com**.
 
 **Reports:** use the same channel to report any use of the Platform that violates the rights of children and adolescents. The report must identify the person reporting and the content or account being reported. We will review it, take the appropriate measures and, when applicable, notify the competent authorities (Brazilian Law 15,211/2025, arts. 28 and 29).
 Requests about personal data follow the channel described in the [Privacy Policy](Privacy_Policy.md#11-contact-and-data-protection-officer).
-

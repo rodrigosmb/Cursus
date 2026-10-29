@@ -14,7 +14,8 @@ Ela vale para o aplicativo Cursus para iOS e, quando estiver disponível, para o
 
 - Você entra com a sua conta **Apple ou Google**. Não pedimos nem guardamos senha.
 - Guardamos o que você cadastra para organizar a sua vida acadêmica: matérias, notas, faltas, aulas, caderno, fotos, PDFs e agenda. **Esses dados ficam no Brasil**, em servidores do Google Cloud em São Paulo.
-- **Não vendemos os seus dados, não exibimos anúncios e não rastreamos você** entre apps e sites de outras empresas.
+- **Não vendemos os seus dados e não rastreamos você** entre apps e sites de outras empresas.
+- O app exibe **anúncios nativos do Google AdMob**, sempre identificados como anúncio e **não personalizados**: eles não usam o seu conteúdo, a sua Conta nem dados de outros apps.
 - O **Google Analytics** coleta dados de uso que não identificam você, para melhorar o app, e você pode desligá-lo a qualquer momento no Perfil.
 - Os **Leitores Automáticos** enviam a foto, o PDF ou o texto que você escolher para a inteligência artificial do Google, nos Estados Unidos, só quando você usa um Leitor. O Cursus não guarda esse conteúdo.
 - A **Presença Automática** usa a sua localização **apenas no aparelho**. A sua posição não é enviada para nós.
@@ -51,6 +52,7 @@ A LGPD exige que todo tratamento de dados tenha uma finalidade e uma base legal 
 | **Dados de uso do app:** eventos como telas abertas e resultado das leituras, identificador de instalação do app, modelo do aparelho, versão do iOS e do app, idioma, país ou região aproximada | Google Analytics, se você não desligar | Entender como o app é usado e melhorá-lo ([item 4](#4-google-analytics)) | Legítimo interesse (IX) |
 | **Dados técnicos e de segurança:** endereço IP, data e hora de acesso, identificadores técnicos do Firebase, registros de erro dos servidores | Gerados automaticamente quando o app se conecta aos servidores | Manter a Plataforma segura e funcionando, investigar falhas e abusos | Legítimo interesse (IX) e cumprimento de obrigação legal (II) |
 | **Contato com o suporte:** e-mail, nome e o conteúdo da mensagem | Você, quando nos escreve | Responder aos seus pedidos, inclusive os de privacidade | Execução de contrato (V), obrigação legal (II) e exercício regular de direitos (VI) |
+| **Dados para anúncios:** endereço IP e localização aproximada derivada dele, modelo do aparelho, versão do iOS e do app, idioma, identificadores técnicos do app e do aparelho (sem o identificador de publicidade, IDFA) e interações com os anúncios, como exibições e toques | Coletados pelo SDK do Google AdMob quando um anúncio é exibido | Exibir anúncios não personalizados, limitar quantas vezes o mesmo anúncio aparece, medir os resultados de forma agregada e prevenir fraudes ([anúncios](#anúncios-google-admob)) | Legítimo interesse (IX), para manter o app gratuito |
 | **Registro de exclusão de conta:** identificador interno, situação do pedido e datas, sem nome nem e-mail | Gerado quando você exclui a Conta | Garantir que a exclusão foi concluída e impedir que sessões antigas recriem dados | Legítimo interesse (IX) e exercício regular de direitos (VI) |
 
 **O que não coletamos:** CPF, telefone, data de nascimento, foto de perfil, contatos, áudio, dados de pagamento ou o identificador de publicidade (IDFA). O app não pede para rastrear você. Os eventos do Calendário, se você conectar, são lidos só no aparelho e não chegam aos nossos servidores.
@@ -78,12 +80,22 @@ Esses dados ficam só no aparelho e são apagados quando você apaga o app. Ao s
 
 Usamos o **Google Analytics para Firebase** para saber como o app é usado, por exemplo quais telas são mais abertas e se os Leitores Automáticos funcionam bem, e assim melhorar o Cursus.
 
-- **Por legítimo interesse, e você pode desligar.** A coleta vem ligada, porque serve só para melhorar o próprio app, com dados que não identificam você e sem publicidade (LGPD, art. 7º, IX, e art. 10). Se não quiser, desmarque *Perfil → Privacidade → Ajude a melhorar o Cursus*, com ou sem conta. A coleta para na hora, vale para o aparelho e não limita nenhum recurso.
+- **Por legítimo interesse, e você pode desligar.** A coleta vem ligada, porque serve só para melhorar o próprio app, com dados que não identificam você e que não são usados para anúncios (LGPD, art. 7º, IX, e art. 10). Se não quiser, desmarque *Perfil → Privacidade → Ajude a melhorar o Cursus*, com ou sem conta. A coleta para na hora, vale para o aparelho e não limita nenhum recurso.
 - **O que é enviado:** eventos de uso (como "tela de matérias aberta", "login com Apple escolhido", "leitura concluída" ou "leitura com erro") e dados técnicos que o próprio SDK coleta: identificador de instalação do app, modelo do aparelho, versão do iOS e do app, idioma, país ou região aproximada, data da primeira abertura, duração e número de sessões.
 - **O que não é enviado:** nome, e-mail, nomes de matérias, notas, anotações, fotos, localização precisa ou o conteúdo das leituras. Também não associamos os dados do Analytics à sua Conta.
-- **Sem publicidade:** os recursos de publicidade do Google estão desativados e o app não usa o identificador de publicidade (IDFA).
+- **Separado dos anúncios:** os recursos de publicidade do Google Analytics estão desativados, os dados do Analytics não são usados para escolher anúncios e o app não usa o identificador de publicidade (IDFA).
 - **Onde e por quanto tempo:** os dados são processados pelo Google, inclusive nos Estados Unidos ([item 7](#7-com-quem-compartilhamos)). Os dados de eventos são guardados por **2 meses** e depois apagados automaticamente. Quando você desativa a coleta ou exclui a Conta, o identificador de instalação é redefinido.
 - Para saber como o Google trata esses dados: [Como o Google usa informações de sites ou apps que usam nossos serviços](https://policies.google.com/technologies/partner-sites?hl=pt-BR).
+
+### Anúncios (Google AdMob)
+
+O Cursus é gratuito e se mantém com **anúncios nativos**, fornecidos pelo **Google AdMob**. Eles aparecem no meio do conteúdo do app, no mesmo estilo dele, e são sempre identificados como anúncio.
+
+- **Não personalizados.** Os anúncios são escolhidos pelo contexto, como o próprio app, o idioma e a região aproximada, e não pelo seu perfil. Eles não usam o identificador de publicidade (IDFA), o app não pede para rastrear você e não enviamos ao AdMob o seu nome, o seu e-mail, a sua Conta, os dados do Analytics nem nada do que você cadastra no Cursus.
+- **O que o SDK do AdMob coleta:** endereço IP e a localização aproximada derivada dele, modelo do aparelho, versão do iOS e do app, idioma, identificadores técnicos do app e do aparelho e as suas interações com os anúncios, como exibições e toques. O Google usa esses dados para exibir o anúncio, limitar quantas vezes o mesmo anúncio aparece, medir os resultados de forma agregada e prevenir fraudes.
+- **Base legal:** legítimo interesse (LGPD, art. 7º, IX), porque os anúncios mantêm o Cursus gratuito e não usam os seus dados para criar um perfil. Você pode se opor a esse tratamento pelo canal do [item 11](#11-contato-e-encarregado).
+- **Onde e por quanto tempo:** os dados são tratados pelo Google, inclusive nos Estados Unidos ([item 7](#7-com-quem-compartilhamos)), pelo prazo definido na política dele.
+- Para saber como o Google trata dados de anúncios: [Como o Google usa cookies e dados em publicidade](https://policies.google.com/technologies/ads?hl=pt-BR).
 
 ## 5. Permissões do aparelho
 
@@ -125,6 +137,7 @@ Os Leitores Automáticos transformam uma foto da grade horária, o plano de ensi
 |---|---|---|---|
 | **Google** (Firebase e Google Cloud) | Login, banco de dados (Cloud Firestore), armazenamento de fotos, PDFs e desenhos (Cloud Storage), configuração remota (Remote Config), servidores dos Leitores Automáticos e do processo de exclusão de conta | Conta, dados acadêmicos, caderno, fotos, PDFs, desenhos, dados técnicos | Banco de dados, arquivos e exclusão de conta: **Brasil** (São Paulo). Autenticação e Leitores Automáticos: **Estados Unidos**. Configuração remota: infraestrutura global do Google |
 | **Google** (Google Analytics para Firebase) | Estatísticas de uso, se você não desligar | Dados de uso do [item 4](#4-google-analytics) | Estados Unidos e outros países |
+| **Google** (Google AdMob) | Anúncios nativos não personalizados | Dados para anúncios do [item 4](#anúncios-google-admob) | Estados Unidos e outros países |
 | **Google** (Gemini, pelo Vertex AI) | Inteligência artificial dos Leitores Automáticos, só quando você usa um Leitor | Arquivo ou texto enviado | Estados Unidos |
 | **Apple** | Iniciar sessão com a Apple e distribuição pela App Store | Dados de login. A Apple trata os dados da App Store como controladora independente, conforme a política dela | Conforme a política da Apple |
 
@@ -144,6 +157,7 @@ Parte do tratamento acontece fora do Brasil, principalmente nos Estados Unidos, 
 | Conta, dados acadêmicos, caderno, fotos, PDFs, desenhos, planejador e aceite dos Termos | Enquanto a Conta existir. Você pode apagar itens a qualquer momento. |
 | Arquivos enviados aos Leitores Automáticos | Não são armazenados pelo Cursus. São descartados logo após o processamento. |
 | Dados do Google Analytics | 2 meses, depois são apagados automaticamente pelo Google |
+| Dados para anúncios (Google AdMob) | Pelo prazo definido na política de anúncios do Google |
 | Registros técnicos dos servidores | Até 30 dias, salvo investigação de incidente de segurança ou ordem de autoridade. O serviço de login do Google guarda endereços IP por algumas semanas. |
 | Identificador de instalação do Firebase (usado pela configuração remota) | Até a exclusão da Conta ou do app. Depois, sai das cópias de segurança do Google em até 180 dias. |
 | Mensagens de suporte e pedidos de privacidade | Até 5 anos após o atendimento, para comprovar que respondemos (prazo do art. 27 do CDC) |

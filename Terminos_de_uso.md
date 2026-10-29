@@ -50,7 +50,7 @@ Cursus es desarrollado y mantenido por un equipo independiente, llamado aquí "*
 - organizar exámenes, trabajos, sesiones de estudio y compromisos personales en un planificador, que puede tener en cuenta los horarios ocupados del Calendario del iPhone, si lo conectas;
 - usar los Lectores Automáticos para completar datos a partir de fotos, PDF o textos.
 
-5.2. **Gratuidad.** Hoy Cursus es gratuito y no muestra publicidad. Algunas funciones, como los Lectores Automáticos, tienen un límite de uso por semestre, informado en la propia app. Si algún día creamos funciones pagas, las condiciones comerciales se presentarán antes de cualquier cobro, con el derecho de arrepentimiento y las demás reglas del Código de Defensa del Consumidor de Brasil.
+5.2. **Gratuidad y anuncios.** Hoy Cursus es gratuito y se sostiene con **anuncios nativos**, que aparecen entre el contenido de la app con el mismo estilo de ella y siempre están identificados como anuncio. Los anuncios los proporciona Google AdMob y **no se personalizan** con tus datos, como explica la [Política de Privacidad](Politica_de_Privacidad.md#anuncios-google-admob). No respondemos por el contenido de los anuncios ni por los productos y servicios anunciados, que son responsabilidad de quien anuncia. Algunas funciones, como los Lectores Automáticos, tienen un límite de uso por semestre, informado en la propia app. Si algún día creamos funciones pagas, las condiciones comerciales se presentarán antes de cualquier cobro, con el derecho de arrepentimiento y las demás reglas del Código de Defensa del Consumidor de Brasil.
 
 5.3. **Cursus no es un sistema oficial de tu institución educativa.** Las notas, promedios, faltas, plazos y previsiones que aparecen en la app sirven para tu organización personal. Los registros oficiales son los de tu institución. Consulta siempre la información oficial antes de tomar decisiones académicas.
 
@@ -200,4 +200,3 @@ Dudas, reclamos o solicitudes sobre estos Términos: **cursusapp06@gmail.com**.
 
 **Denuncias:** usa el mismo canal para denunciar cualquier uso de la Plataforma que viole derechos de niños y adolescentes. La denuncia debe identificar a quien denuncia y el contenido o la cuenta denunciada. La analizaremos, tomaremos las medidas que correspondan y, cuando proceda, comunicaremos a las autoridades competentes (Ley brasileña 15.211/2025, arts. 28 y 29).
 Las solicitudes sobre datos personales siguen el canal descrito en la [Política de Privacidad](Politica_de_Privacidad.md#11-contacto-y-encargado).
-
