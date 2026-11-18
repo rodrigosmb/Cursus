@@ -1,8 +1,8 @@
 # Términos de Uso de Cursus
 
-**Versión:** 1.0
-**Última actualización:** 20 de octubre de 2026
-**Vigencia:** a partir del 20 de octubre de 2026
+**Versión:** 1.1
+**Última actualización:** 18 de noviembre de 2026
+**Vigencia:** a partir del 20 de noviembre de 2026
 
 > Esta es una traducción de la versión original en portugués. Si las dos difieren, prevalece la versión en portugués (punto 17.4).
 
@@ -32,7 +32,7 @@ Cursus es desarrollado y mantenido por un equipo independiente, llamado aquí "*
 
 3.1. Aceptas estos Términos al marcar la casilla de aceptación y completar el registro. Registramos la versión aceptada y la fecha de la aceptación.
 
-3.2. Sin cuenta, solo puedes explorar el contenido de demostración. Nada de lo que hagas en ese modo se guarda en nuestros servidores. La única excepción son los datos de uso de la app, que puedes desactivar en *Perfil → Privacidad*, como explica la [Política de Privacidad](Politica_de_Privacidad.md#4-google-analytics).
+3.2. Sin cuenta, solo puedes explorar el contenido de demostración. Nada de lo que hagas en ese modo se guarda en nuestros servidores. La única excepción son los datos de uso de la app, que puedes desactivar en *Perfil → Privacidad*, como explica la [Política de Privacidad](Politica_de_Privacidad.md#41-google-analytics).
 
 ## 4. Quién puede usar Cursus
 
@@ -50,9 +50,27 @@ Cursus es desarrollado y mantenido por un equipo independiente, llamado aquí "*
 - organizar exámenes, trabajos, sesiones de estudio y compromisos personales en un planificador, que puede tener en cuenta los horarios ocupados del Calendario del iPhone, si lo conectas;
 - usar los Lectores Automáticos para completar datos a partir de fotos, PDF o textos.
 
-5.2. **Gratuidad y anuncios.** Hoy Cursus es gratuito y se sostiene con **anuncios nativos**, que aparecen entre el contenido de la app con el mismo estilo de ella y siempre están identificados como anuncio. Los anuncios los proporciona Google AdMob y **no se personalizan** con tus datos, como explica la [Política de Privacidad](Politica_de_Privacidad.md#anuncios-google-admob). No respondemos por el contenido de los anuncios ni por los productos y servicios anunciados, que son responsabilidad de quien anuncia. Algunas funciones, como los Lectores Automáticos, tienen un límite de uso por semestre, informado en la propia app. Si algún día creamos funciones pagas, las condiciones comerciales se presentarán antes de cualquier cobro, con el derecho de arrepentimiento y las demás reglas del Código de Defensa del Consumidor de Brasil.
+5.2. **Gratuidad.** Hoy Cursus es gratuito y muestra anuncios discretos y no personalizados, proporcionados por terceros (consulta la Política de Privacidad). No controlamos el contenido de los anuncios ni los sitios web y apps de destino, y no nos responsabilizamos por ellos. En el plan gratuito, algunas funciones, como los Lectores Automáticos, tienen un límite de uso por semestre, informado en la propia app. La suscripción opcional, Cursus Pro, está en el punto 5.4.
 
 5.3. **Cursus no es un sistema oficial de tu institución educativa.** Las notas, promedios, faltas, plazos y previsiones que aparecen en la app sirven para tu organización personal. Los registros oficiales son los de tu institución. Consulta siempre la información oficial antes de tomar decisiones académicas.
+
+5.4. **Cursus Pro (suscripción opcional).** Mientras esté activo, Cursus Pro habilita lecturas sin límite en los Lectores Automáticos de horario, de programa y de criterio de evaluación, y el uso de la app sin anuncios. Podemos incluir otros beneficios; los que ya forman parte del plan no se retiran durante un período ya pagado.
+
+a) **Requiere una Cuenta, y vale en una Cuenta a la vez.** Cursus Pro solo se puede contratar con una Cuenta de Cursus: los beneficios valen mientras tengas la sesión iniciada en esa Cuenta, en cualquier dispositivo. Si inicias sesión en otra Cuenta de Cursus con la misma cuenta de Apple y usas *Restaurar* en la pantalla de Cursus Pro, la suscripción pasa a esa Cuenta y deja de valer en la anterior. En un dispositivo nuevo, inicia sesión en la misma Cuenta y, si hace falta, usa *Restaurar*.
+
+b) **Venta y cobro por Apple.** La suscripción se vende por la App Store, en tu cuenta de Apple. Apple cobra el importe, en la moneda y con los impuestos de tu país, y trata los datos de pago. Nosotros no recibimos ni guardamos esos datos. RevenueCat gestiona las suscripciones por nosotros, como se describe en la Política de Privacidad.
+
+c) **Precio y período.** El precio, la moneda y el período (mensual o anual) aparecen en la pantalla de Cursus Pro antes de la compra. Si hay un período de prueba gratuito, la pantalla informa su duración y el importe que se cobra después.
+
+d) **Renovación automática.** La suscripción se renueva al final de cada período, por el mismo precio, salvo que la canceles al menos 24 horas antes del final del período actual. La renovación se cobra en las 24 horas anteriores al final del período.
+
+e) **Cancelación.** Puedes cancelar en cualquier momento en *Perfil → Gestionar suscripción* o en los Ajustes de tu cuenta de Apple. La cancelación vale al final del período ya pagado, y los beneficios continúan hasta entonces.
+
+f) **Reembolso y arrepentimiento.** Las solicitudes de reembolso se hacen a Apple, en reportaproblem.apple.com, según sus reglas y la ley de tu país, incluido el derecho de arrepentimiento del art. 49 del Código de Defensa del Consumidor de Brasil para quien está en Brasil.
+
+g) **Cambio de precio.** Si el precio cambia, Apple avisa antes y, cuando la ley lo exija, la renovación con el precio nuevo depende de tu conformidad.
+
+h) **Eliminar la Cuenta no cancela el cobro.** El cobro es de Apple: cancela la suscripción también con Apple (punto 5.4, e).
 
 ## 6. Tu Cuenta
 
@@ -118,7 +136,7 @@ Si incumples estas reglas, podremos suspender o cerrar tu Cuenta, según el punt
 
 ## 12. Suspensión, cierre y eliminación de la Cuenta
 
-12.1. **Puedes eliminar tu Cuenta en cualquier momento** en *Perfil → Eliminar cuenta*. La eliminación borra la Cuenta y los datos asociados de nuestros servidores, como se describe en la [Política de Privacidad](Politica_de_Privacidad.md#8-por-cuánto-tiempo-guardamos-los-datos). Es definitiva: no podemos recuperar los datos después.
+12.1. **Puedes eliminar tu Cuenta en cualquier momento** en *Perfil → Eliminar cuenta*. La eliminación borra la Cuenta y los datos asociados de nuestros servidores, como se describe en la [Política de Privacidad](Politica_de_Privacidad.md#8-por-cuánto-tiempo-guardamos-los-datos). Es definitiva: no podemos recuperar los datos después. Eliminar la Cuenta no cancela la suscripción de Cursus Pro, que cobra Apple (punto 5.4).
 
 12.2. Podemos suspender o cerrar una Cuenta que incumpla estos Términos o la ley, que ponga en riesgo la seguridad de la Plataforma o de otros usuarios, o cuando la ley o una autoridad lo exija. Siempre que sea posible y lo permita la ley, avisaremos antes, explicaremos el motivo y daremos un plazo razonable para que corrijas la situación o exportes tus datos.
 

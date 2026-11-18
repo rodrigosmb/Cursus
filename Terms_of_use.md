@@ -1,8 +1,8 @@
 # Cursus Terms of Use
 
-**Version:** 1.0
-**Last updated:** October 20, 2026
-**Effective:** from October 20, 2026
+**Version:** 1.1
+**Last updated:** November 18, 2026
+**Effective:** from November 20, 2026
 
 > This is a translation of the original Portuguese version. If the two differ, the Portuguese version prevails (item 17.4).
 
@@ -32,7 +32,7 @@ Cursus is developed and maintained by an independent team, referred to here as "
 
 3.1. You accept these Terms by checking the acceptance box and completing sign-up. We record the accepted version and the date of acceptance.
 
-3.2. Without an account, you can only explore the demo content. Nothing you do in this mode is saved on our servers. The only exception is app usage data, which you can turn off in *Profile → Privacy*, as explained in the [Privacy Policy](Privacy_Policy.md#4-google-analytics).
+3.2. Without an account, you can only explore the demo content. Nothing you do in this mode is saved on our servers. The only exception is app usage data, which you can turn off in *Profile → Privacy*, as explained in the [Privacy Policy](Privacy_Policy.md#41-google-analytics).
 
 ## 4. Who may use Cursus
 
@@ -50,9 +50,27 @@ Cursus is developed and maintained by an independent team, referred to here as "
 - organize exams, assignments, study sessions and personal appointments in a planner, which can take into account busy times from the iPhone Calendar if you connect it;
 - use the Auto Readers to fill in data from photos, PDFs or text.
 
-5.2. **Free of charge and ads.** Cursus is currently free and is supported by **native ads**, which appear within the app's content in the same style as the app and are always labeled as ads. The ads are provided by Google AdMob and are **not personalized** with your data, as explained in the [Privacy Policy](Privacy_Policy.md#ads-google-admob). We are not responsible for the content of the ads or for the products and services advertised, which are the advertisers' responsibility. Some features, such as the Auto Readers, have a per-semester usage limit, shown in the app. If we ever create paid features, the commercial terms will be presented before any charge, with the right of withdrawal and the other rules of the Brazilian Consumer Protection Code.
+5.2. **Free of charge.** Cursus is currently free and shows discreet, non-personalized ads provided by third parties (see the Privacy Policy). We do not control the content of the ads or the destination websites and apps, and we are not responsible for them. On the free plan, some features, such as the Auto Readers, have a per-semester usage limit, shown in the app. The optional subscription, Cursus Pro, is described in item 5.4.
 
 5.3. **Cursus is not an official system of your educational institution.** Grades, averages, absences, deadlines and forecasts shown in the app are for your personal organization. The official records are those of your institution. Always check the official information before making academic decisions.
+
+5.4. **Cursus Pro (optional subscription).** While active, Cursus Pro unlocks unlimited readings in the schedule, syllabus and grading criteria Auto Readers, and the use of the app without ads. We may add other benefits; those already in the plan are not removed during a period already paid for.
+
+a) **Requires an Account, and applies to one Account at a time.** Cursus Pro can only be subscribed to with a Cursus Account: the benefits apply while you are signed in to that Account, on any device. If you sign in to another Cursus Account with the same Apple account and use *Restore* on the Cursus Pro screen, the subscription moves to that Account and no longer applies to the previous one. On a new device, sign in to the same Account and, if needed, use *Restore*.
+
+b) **Sale and billing by Apple.** The subscription is sold through the App Store, on your Apple account. Apple charges the amount, in your country's currency and with its taxes, and handles the payment data. We do not receive or store this data. Subscriptions are managed for us by RevenueCat, as described in the Privacy Policy.
+
+c) **Price and period.** The price, currency and period (monthly or yearly) are shown on the Cursus Pro screen before purchase. If there is a free trial, the screen shows its length and the amount charged after it.
+
+d) **Automatic renewal.** The subscription renews at the end of each period, at the same price, unless you cancel it at least 24 hours before the end of the current period. Renewal is charged within the 24 hours before the end of the period.
+
+e) **Cancellation.** You can cancel at any time in *Profile → Manage subscription* or in your Apple account settings. Cancellation takes effect at the end of the period already paid for, and the benefits continue until then.
+
+f) **Refunds and withdrawal.** Refund requests are made to Apple, at reportaproblem.apple.com, under its rules and the law of your country, including the right of withdrawal in art. 49 of the Brazilian Consumer Protection Code for those in Brazil.
+
+g) **Price changes.** If the price changes, Apple notifies you in advance and, where the law requires, renewal at the new price depends on your agreement.
+
+h) **Deleting the Account does not cancel billing.** Billing is done by Apple: cancel the subscription through Apple as well (item 5.4, e).
 
 ## 6. Your Account
 
@@ -118,7 +136,7 @@ If you break these rules, we may suspend or close your Account, as described in 
 
 ## 12. Suspension, termination and deletion of the Account
 
-12.1. **You can delete your Account at any time** in *Profile → Delete account*. Deletion erases the Account and the associated data from our servers, as described in the [Privacy Policy](Privacy_Policy.md#8-how-long-we-keep-data). It is permanent: we cannot recover the data afterwards.
+12.1. **You can delete your Account at any time** in *Profile → Delete account*. Deletion erases the Account and the associated data from our servers, as described in the [Privacy Policy](Privacy_Policy.md#8-how-long-we-keep-data). It is permanent: we cannot recover the data afterwards. Deleting the Account does not cancel the Cursus Pro subscription, which is billed by Apple (item 5.4).
 
 12.2. We may suspend or close an Account that breaches these Terms or the law, that puts the security of the Platform or of other users at risk, or when the law or an authority requires it. Whenever possible and permitted by law, we will give notice in advance, explain the reason and give you a reasonable period to fix the situation or export your data.
 
